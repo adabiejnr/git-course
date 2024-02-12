@@ -1,0 +1,2 @@
+username = adabie
+password = 0123
